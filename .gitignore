@@ -1,0 +1,41 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+config/env/development.json5
+
+pids
+logs
+results
+
+
+#From Mac
+
+.DS_Store
+
+
+#From the stack
+
+bower_components/
+node_modules/
+npm-debug.log
+node_modules
+.nodemonignore
+.sass-cache/
+
+
+#From IDE
+
+.idea
+/.*.md.html
+.settings
+.project
+.classpath
+*~
+*.sublime*
+*.swp
+*.swo
